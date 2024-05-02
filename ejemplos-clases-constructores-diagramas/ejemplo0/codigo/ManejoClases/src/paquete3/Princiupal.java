@@ -1,13 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package paquete3;
 
-/**
- *
- * @author monkyd
- */
+
+ 
 public class Princiupal {
+    public static void main (String []args ){
+        //en la clase main se ah creado un nuevo objeto el cual tiene ya por defecto un constructor 
+        Computadora computadoraTrabajo = new Computadora ();
+    }
     
 }
